@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "73736435969",
+    "firebase_url": "https://srmforum-e0b22.firebaseio.com",
+    "project_id": "srmforum-e0b22",
+    "storage_bucket": "srmforum-e0b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73736435969:android:3e2ea78cc99f64ef",
+        "android_client_info": {
+          "package_name": "com.example.sarabjeet.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73736435969-i52q9a127t74sdro2ndcnr8mprljeckv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarabjeet.firstapp",
+            "certificate_hash": "31315e7b57f4853615c5aa41ece11ac99a336acf"
+          }
+        },
+        {
+          "client_id": "73736435969-3dgr786555q133jh70lruf4joet27qag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52MRbiuGSW2gnJ08hYoHNeSJF0eDWtew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73736435969-3dgr786555q133jh70lruf4joet27qag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

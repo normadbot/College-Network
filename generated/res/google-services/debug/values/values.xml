@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">73736435969-3dgr786555q133jh70lruf4joet27qag.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://srmforum-e0b22.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">73736435969</string>
+    <string name="google_api_key" translatable="false">AIzaSyD52MRbiuGSW2gnJ08hYoHNeSJF0eDWtew</string>
+    <string name="google_app_id" translatable="false">1:73736435969:android:3e2ea78cc99f64ef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD52MRbiuGSW2gnJ08hYoHNeSJF0eDWtew</string>
+    <string name="google_storage_bucket" translatable="false">srmforum-e0b22.appspot.com</string>
+</resources>
